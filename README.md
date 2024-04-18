@@ -1,2 +1,2 @@
 # LibTest
-KingfisherWebP Test
+KingfisherWebPTest : KingfisherWebP Test
